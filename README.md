@@ -6,7 +6,7 @@ All three problems can be found in the [practice_problems.Rmd](https://github.co
 To do so, you'll need to have (a) R/RStudio and git installed on your computer, (b) a GitHub account, and (c) a couple R packages installed. You can find instructions on how to get everything you need installed and working below:
 
 * [Install R & RStudio](https://docs.google.com/document/d/1KLYC_GcDLYeczSjJmZ5h4y525XILJbbL6r2-MxGCdtw/edit)
-* Install the necessary packages by running the following line in your console (if you do not already have them installed):
+* Install the necessary packages by running the following line in your RStudio console (if you do not already have them installed):
   + `install.packages(c("tidyverse", "palmerpenguins"))`
 * [Setup git & GitHub](https://docs.google.com/document/d/1AQ4zAYxPHOObq-snnnRtEdwCC8TwIJsTHwpaKyvEyoA/edit)
 * [Fork & clone a GitHub repo](https://docs.google.com/document/d/16aM5B4B3WRc1YbcYrFlk_IOX1YV5ITnMWxNpCQFb8Qk/edit?usp=sharing)
