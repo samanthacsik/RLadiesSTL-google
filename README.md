@@ -8,5 +8,5 @@ To do so, you'll need to have (a) R/RStudio and git installed on your computer, 
 * [Install R & RStudio](https://docs.google.com/document/d/1KLYC_GcDLYeczSjJmZ5h4y525XILJbbL6r2-MxGCdtw/edit)
 * Install the necessary packages by running the following line in your console (if you do not already have them installed):
   + `install.packages(c("tidyverse", "palmerpenguins"))`
-* [Setup git & GitHub](https://docs.google.com/document/d/16aM5B4B3WRc1YbcYrFlk_IOX1YV5ITnMWxNpCQFb8Qk/edit?usp=sharing)
+* [Setup git & GitHub](https://docs.google.com/document/d/1AQ4zAYxPHOObq-snnnRtEdwCC8TwIJsTHwpaKyvEyoA/edit)
 * [Fork & clone a GitHub repo](https://docs.google.com/document/d/16aM5B4B3WRc1YbcYrFlk_IOX1YV5ITnMWxNpCQFb8Qk/edit?usp=sharing)
