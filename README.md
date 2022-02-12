@@ -11,4 +11,4 @@ To do so, you'll need to have (a) R/RStudio and git installed on your computer, 
 * [Setup git & GitHub](https://docs.google.com/document/d/1AQ4zAYxPHOObq-snnnRtEdwCC8TwIJsTHwpaKyvEyoA/edit)
 * [Fork & clone a GitHub repo](https://docs.google.com/document/d/16aM5B4B3WRc1YbcYrFlk_IOX1YV5ITnMWxNpCQFb8Qk/edit?usp=sharing)
 
-*If you prefer to avoid using GitHub altogether, you can download `practice_problems.Rmd` [here](https://drive.google.com/file/d/1BWnd91BjSeVNQuegi4ExmVvk-L_l0Hzu/view?usp=sharing), save it to your computer, and open it up with RStudio to start coding!*
+*If you prefer to avoid using GitHub altogether, you can download `practice_problems.Rmd` [here](https://drive.google.com/file/d/1BWnd91BjSeVNQuegi4ExmVvk-L_l0Hzu/view?usp=sharing), save it to your computer, and open it up with RStudio to start coding! Make sure to install the `{tidyverse}` and `{palmerpenguins}` packages still, if you don't have them already.*
